@@ -1,5 +1,5 @@
 # Movie Blend
-
+Machine-Learning model.
 A movie recommendation system that combines the preferences of two users and recommends movies both users are likely to enjoy.
 
 ## Features
